@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36cba47c-a29c-4343-922a-877170ac8ae6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../configuration/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../configuration/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../configuration/.idea/vcs.xml" afterDir="false" />
@@ -72,6 +70,7 @@
       <change afterPath="$PROJECT_DIR$/../../morceencoder/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../morceencoder/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercises/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +93,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -115,6 +114,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,8 +138,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,11 +186,12 @@
       <updated>1562053017378</updated>
       <workItem from="1562053020472" duration="610000" />
       <workItem from="1562054878348" duration="1870000" />
+      <workItem from="1562057859376" duration="50000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2480000" />
+    <option name="totallyTimeSpent" value="2530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
